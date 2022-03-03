@@ -1,0 +1,76 @@
+[
+  {
+    "name": "1",
+    "timeslots": [
+      {
+        "timeslot": "2022-05-01 04:30:00",
+        "left_places": "5"
+      },
+      {
+        "timeslot": "2022-05-03 05:30:00",
+        "left_places": "6"
+      },
+      {
+        "timeslot": "2022-05-04 10:00:00",
+        "left_places": "2"
+      },
+      {
+        "timeslot": "2022-05-06 05:00:00",
+        "left_places": "11"
+      },
+      {
+        "timeslot": "2022-05-10 12:00:00",
+        "left_places": "4"
+      },
+      {
+        "timeslot": "2022-05-11 06:00:00",
+        "left_places": "1"
+      },
+      {
+        "timeslot": "2022-05-15 01:00:00",
+        "left_places": "9"
+      },
+      {
+        "timeslot": "2022-05-15 02:00:00",
+        "left_places": "2"
+      }
+    ]
+  },
+  {
+    "name": "2",
+    "timeslots": [
+      {
+        "timeslot": "2022-05-07 23:00:00",
+        "left_places": "7"
+      },
+      {
+        "timeslot": "2022-05-07 09:00:00",
+        "left_places": "2"
+      },
+      {
+        "timeslot": "2022-05-08 11:30:00",
+        "left_places": "5"
+      },
+      {
+        "timeslot": "2022-05-08 13:00:00",
+        "left_places": "3"
+      },
+      {
+        "timeslot": "2022-05-09 02:00:00",
+        "left_places": "4"
+      },
+      {
+        "timeslot": "2022-05-09 09:00:00",
+        "left_places": "8"
+      },
+      {
+        "timeslot": "2022-05-10 10:00:00",
+        "left_places": "2"
+      },
+      {
+        "timeslot": "2022-05-10 14:30:00",
+        "left_places": "1"
+      }
+    ]
+  }
+]
